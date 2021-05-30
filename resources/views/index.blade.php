@@ -5,7 +5,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>URL Shortener in PHP | CodingNepal</title>
+  <title>Acortador de enlace </title>
   <link rel="stylesheet" href="{{asset('css/style.css')}}">
   <!-- Iconsout Link for Icons -->
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
