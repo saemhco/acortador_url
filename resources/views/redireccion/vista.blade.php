@@ -23,7 +23,7 @@
             <div class="col-12 text-center">
                 <div class="">
                     <h5 > Tu mejor opción</h5>
-                    <img src="https://as01.epimg.net/meristation/imagenes/2019/07/10/betech/1562782223_413804_1562782380_noticia_normal.jpg">
+                    <img src="{{asset('img/innvacion.jpeg')}}">
                 </div>
             </div>
             
